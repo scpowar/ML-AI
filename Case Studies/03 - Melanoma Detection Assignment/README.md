@@ -38,6 +38,8 @@
 Give credit here.
 - This project was inspired by...
 - References if any...
+  - [https://github.com/nicknochnack/ImageClassification/blob/main/Getting%20Started.ipynb](https://github.com/nicknochnack/ImageClassification)
+  - https://www.tensorflow.org/tutorials/images/classification
 - This project was based on [this tutorial](https://www.example.com).
 
 
