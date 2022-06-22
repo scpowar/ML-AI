@@ -33,7 +33,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
+
 - References
   - [https://github.com/nicknochnack/ImageClassification/blob/main/Getting%20Started.ipynb](https://github.com/nicknochnack/ImageClassification)
   - https://www.tensorflow.org/tutorials/images/classification
