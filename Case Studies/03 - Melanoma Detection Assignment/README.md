@@ -20,12 +20,9 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- In the first CNN model plot we see that training accuracy is around 88% and validation accuracy is around 57%. Both are are off by large margins. The difference in accuracy between training and validation accuracy is noticeable which a sign of overfitting
+- Using Augmentation and Dropout layer in our next model has improved the model compared to previous one. Train and validation accuracy are inline.
+- By Handling class imbalances model has further improved
 
 
 ## Technologies Used
