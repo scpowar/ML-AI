@@ -1,6 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Lending Club Case Study - EDA
+> This project is a EDA case study to analyse loan data and find patterns to identify if a customer is likely to default
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,26 +10,28 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This project is a EDA case study to analyse loan data and find patterns to identify if a customer is likely to default
+- Our main objective is to minimise the risk of financial loss while lending money to customer
+- Two types of risk:
+  1. Likely to repay loan; not approving will cause loss of business
+  2. Not likely to repay loan; approving will cause financial loss
+- The dataset that is being used is loan dataset
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- 86% customers have fully paid the loan but 14% have been charged off. Default rate is 14%
+- Frequency of small businesses defaulting is very high compared to others. Parameters to give loan to small business should be made more stringent in order to avoid financial loss
+- Default rate for verified customers is significantly more than that for non verified customers
+- Default rate was max in 2007 after which it kept on dropping till 2009. But from 2010 we see a steady rise in default rate
+- Customers whose loans are in very high interest rate category have a comparatively higher tendency to default followed by high, medium and lastly low
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -42,7 +43,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@scpowar](https://github.com/scpowar) - feel free to contact me!
 
 
 <!-- Optional -->
